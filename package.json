@@ -1,0 +1,27 @@
+{
+  "name": "bestrequests",
+  "version": "1.0.0",
+  "description": "Javascript library to define handlers for commom codes as a middleware request maker on project",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avodevelopment/bestrequests.git"
+  },
+  "author": "avodevelopment",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avodevelopment/bestrequests/issues"
+  },
+  "homepage": "https://github.com/avodevelopment/bestrequests#readme",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
